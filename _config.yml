@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "J S H"
 description              : "An amazing website."
-url                      : # "https://github.com/1111jsh/1111jsh.github.io"
+url                      : # "https://1111jsh.github.io/"
 baseurl                  : # "https://1111jsh.github.io/"
 repository               : # GitHub username/repo-name e.g. "1111jsh/1111jsh.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
