@@ -23,7 +23,7 @@ name                     : "J S H"
 description              : "An amazing website."
 url                      : # "https://1111jsh.github.io/"
 baseurl                  : # "https://1111jsh.github.io/"
-repository               : # GitHub username/repo-name e.g. "1111jsh/1111jsh.github.io"
+repository               : # "1111jsh/1111jsh.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
