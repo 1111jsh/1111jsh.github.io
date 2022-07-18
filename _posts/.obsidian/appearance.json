@@ -1,3 +1,5 @@
 {
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "Minimal"
 }

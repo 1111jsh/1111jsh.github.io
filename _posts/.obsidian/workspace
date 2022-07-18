@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3564e172a2fda5b3",
+        "id": "5d32779123829106",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,10 +130,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3564e172a2fda5b3",
+  "active": "5d32779123829106",
   "lastOpenFiles": [
-    "2022-07-12-markdown-image.md",
+    "2022-07-18.md",
     "2022-07-13-CS50-2019-1.md",
+    "2022-07-12-markdown-image.md",
     "2022-07-15.md"
   ]
 }
