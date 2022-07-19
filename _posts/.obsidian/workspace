@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5d32779123829106",
+        "id": "6984727ebb38c09e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -13,7 +13,21 @@
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "2cc11fa32f608f05"
+      },
+      {
+        "id": "04ecf0840dc81d9d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-07-13-CS50-2019-1.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "2cc11fa32f608f05"
       }
     ],
     "direction": "vertical"
@@ -40,11 +54,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#컴퓨터과학",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -57,13 +71,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "c7659d0f96c8750b",
@@ -109,7 +121,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -122,19 +134,69 @@
                 "file": "2022-07-13-CS50-2019-1.md"
               }
             }
+          },
+          {
+            "id": "5f48d6ded1298799",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2022-07-13-CS50-2019-1.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.042697394164298415,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "dc807e8e57f71022",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 239.5,
     "collapsed": true
   },
-  "active": "5d32779123829106",
+  "active": "f2e752398d21e91e",
   "lastOpenFiles": [
-    "2022-07-18.md",
+    "().md",
     "2022-07-13-CS50-2019-1.md",
+    "template/yyyy-mm-dd-template.md",
+    "2022-07-20.md",
+    "2022-07-03-HTML-CSS-2.md",
+    "2022-07-03-HTML-CSS-1.md",
     "2022-07-12-markdown-image.md",
-    "2022-07-15.md"
+    "2022-06-27-terminal_usage.md",
+    "2022-07-19.md",
+    "무제노트.md"
   ]
 }
