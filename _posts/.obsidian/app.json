@@ -6,5 +6,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "/",
   "attachmentFolderPath": "template",
-  "useTab": true
+  "useTab": true,
+  "showUnsupportedFiles": true
 }

@@ -18,8 +18,9 @@ published: false
 
 >***reference***
 >-
->
->
+>[]()
+
+
  
 
 
@@ -27,6 +28,10 @@ published: false
 ----
 
 >***linked documents***
->[[yyyy-mm-dd-template]]
+>
+>[[]]
+
+
+
 
 
