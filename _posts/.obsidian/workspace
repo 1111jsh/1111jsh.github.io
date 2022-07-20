@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#컴퓨터과학",
+                "query": "tag:#2진법",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,17 +186,17 @@
     "width": 239.5,
     "collapsed": true
   },
-  "active": "f2e752398d21e91e",
+  "active": "6984727ebb38c09e",
   "lastOpenFiles": [
-    "().md",
-    "2022-07-13-CS50-2019-1.md",
+    "2022-07-21-CS50-2019-2.md",
     "template/yyyy-mm-dd-template.md",
+    "2022-07-13-CS50-2019-1.md",
+    "^1.md",
+    "2022-07-12-HTML-CSS-3.md",
+    "().md",
     "2022-07-20.md",
     "2022-07-03-HTML-CSS-2.md",
     "2022-07-03-HTML-CSS-1.md",
-    "2022-07-12-markdown-image.md",
-    "2022-06-27-terminal_usage.md",
-    "2022-07-19.md",
-    "무제노트.md"
+    "2022-07-12-markdown-image.md"
   ]
 }
