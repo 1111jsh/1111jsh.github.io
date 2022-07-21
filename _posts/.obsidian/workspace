@@ -14,7 +14,7 @@
             "source": false
           }
         },
-        "group": "aecbf500d4ad4975"
+        "group": "abe9ca0cb98d61c8"
       },
       {
         "id": "fd4af94c852edefb",
@@ -27,7 +27,7 @@
             "source": false
           }
         },
-        "group": "aecbf500d4ad4975"
+        "group": "abe9ca0cb98d61c8"
       }
     ],
     "direction": "vertical"
@@ -138,6 +138,45 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "02825996022e6b04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-07-21-CS50-2019-2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b59528412ba98e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-07-21-CS50-2019-2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7eb5ee74a48eec6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-07-21-CS50-2019-2.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -149,13 +188,13 @@
   },
   "active": "04ecf0840dc81d9d",
   "lastOpenFiles": [
-    "2022-07-13-CS50-2019-1.md",
+    "2022-06-27-terminal_usage.md",
     "2022-07-21-CS50-2019-2.md",
+    "2022-07-13-CS50-2019-1.md",
     "2022-07-12-HTML-CSS-3.md",
     "Excalidraw/Drawing 2022-07-21 04.06.22.excalidraw.md",
     "2022-07-12-markdown-image.md",
     "2022-07-03-HTML-CSS-2.md",
-    "2022-06-27-terminal_usage.md",
     "2022-07-03-HTML-CSS-1.md",
     "template/yyyy-mm-dd-template.md",
     "^1.md"
