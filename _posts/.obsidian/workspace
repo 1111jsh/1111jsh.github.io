@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-07-21-CS50-2019-2.md",
+            "file": "2022-07-22-CS50-2019-3.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-07-21-CS50-2019-2.md",
+            "file": "2022-07-22-CS50-2019-3.md",
             "mode": "preview",
             "source": false
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2022-07-21-CS50-2019-2.md",
+                "file": "2022-07-22-CS50-2019-3.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-07-21-CS50-2019-2.md",
+                "file": "2022-07-22-CS50-2019-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-07-21-CS50-2019-2.md",
+                "file": "2022-07-22-CS50-2019-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-07-21-CS50-2019-2.md"
+                "file": "2022-07-22-CS50-2019-3.md"
               }
             }
           }
@@ -183,20 +183,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
+    "width": 197.5,
     "collapsed": true
   },
   "active": "04ecf0840dc81d9d",
   "lastOpenFiles": [
-    "2022-06-27-terminal_usage.md",
     "2022-07-21-CS50-2019-2.md",
-    "2022-07-13-CS50-2019-1.md",
-    "2022-07-12-HTML-CSS-3.md",
-    "Excalidraw/Drawing 2022-07-21 04.06.22.excalidraw.md",
-    "2022-07-12-markdown-image.md",
-    "2022-07-03-HTML-CSS-2.md",
-    "2022-07-03-HTML-CSS-1.md",
+    "2022-07-22-CS50-2019-3.md",
+    "Excalidraw/Drawing 2022-07-22 21.47.08.excalidraw.md",
     "template/yyyy-mm-dd-template.md",
-    "^1.md"
+    "2022-07-13-CS50-2019-1.md",
+    "Excalidraw/Drawing 2022-07-21 04.06.22.excalidraw.md",
+    "무제노트.md",
+    "2022-06-27-terminal_usage.md",
+    "2022-07-12-HTML-CSS-3.md",
+    "2022-07-12-markdown-image.md"
   ]
 }
