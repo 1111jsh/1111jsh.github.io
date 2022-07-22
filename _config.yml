@@ -107,8 +107,8 @@ analytics:
 author:
   name             : "JSH"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : # 
+  location         : # "Somewhere"
   email            :
   links:
     - label: "Email"
@@ -291,3 +291,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar_main: true
