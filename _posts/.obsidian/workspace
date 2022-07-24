@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-07-13-CS50-2019-1.md",
+            "file": "2022-07-23-CS50-2019-4.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-07-13-CS50-2019-1.md",
+            "file": "2022-07-23-CS50-2019-4.md",
             "mode": "preview",
             "source": false
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\" #include\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2022-07-13-CS50-2019-1.md",
+                "file": "2022-07-23-CS50-2019-4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-07-13-CS50-2019-1.md",
+                "file": "2022-07-23-CS50-2019-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-07-13-CS50-2019-1.md",
+                "file": "2022-07-23-CS50-2019-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-07-13-CS50-2019-1.md"
+                "file": "2022-07-23-CS50-2019-4.md"
               }
             }
           }
@@ -185,15 +186,15 @@
     "direction": "horizontal",
     "width": 197.5
   },
-  "active": "fd4af94c852edefb",
+  "active": "b32c1247f4685269",
   "lastOpenFiles": [
+    "2022-07-13-CS50-2019-1.md",
     "2022-07-21-CS50-2019-2.md",
     "2022-07-22-CS50-2019-3.md",
     "2022-07-23-CS50-2019-4.md",
-    "2022-07-13-CS50-2019-1.md",
+    "2022-07-12-markdown-image.md",
     "2022-07-03-HTML-CSS-2.md",
     "2022-07-12-HTML-CSS-3.md",
-    "2022-07-12-markdown-image.md",
     "2022-07-03-HTML-CSS-1.md",
     "Excalidraw/Drawing 2022-07-22 21.47.08.excalidraw.md",
     "Excalidraw/Drawing 2022-07-21 04.06.22.excalidraw.md"
