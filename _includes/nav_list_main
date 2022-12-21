@@ -25,8 +25,8 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "post" %}
-                        <li><a href="/categories/post" class="">post ({{category[1].size}})</a></li>
+                    {% if category[0] == "Java" %}
+                        <li><a href="/categories/Java" class="">Java ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -34,6 +34,13 @@
                 {% for category in site.categories %}
                     {% if category[0] == "Linux" %}
                         <li><a href="/categories/Linux" class="">Linux ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "post" %}
+                        <li><a href="/categories/post" class="">post ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
