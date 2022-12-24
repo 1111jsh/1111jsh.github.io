@@ -1,12 +1,9 @@
 source "https://rubygems.org"
-gemspec
 
-gem "json"
-gem "jekyll"
-gem "jekyll-sitemap"
-gem "jekyll-feed"
+gem "jekyll", "~> 4.0"
 gem "jekyll-paginate"
+gem "jekyll-sitemap"
 gem "jekyll-gist"
-
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
+gem "jekyll-feed"
+gem "jekyll-include-cache"
+gem "minimal-mistakes-jekyll"
