@@ -15,7 +15,7 @@ published: true
 - 값을 저장할 수 있는 메모리 공간을 확보하고, 사람이 식별할 수 있는 이름을 붙인 것
 
 ### 변수 선언
-```Java
+```java
 class Example {
 	public static void main(String[] args) {
 		int num; // 변수 선언
@@ -34,7 +34,7 @@ class Example {
 - 변하지 말아야 할 데이터를 임시적으로 저장하기 위한 수단
 - `final`이라는 키워드를 사용 관례적으로 대문자에 언더바를 넣는다
 
-```Java
+```java
 final double CALCUATOR_PI = 3.14;
 ```
 
@@ -95,7 +95,7 @@ final double CALCUATOR_PI = 3.14;
 1. 바이트 크기가 작은 타입에서 큰 타입으로 변환할 때 (예 : `byte` → `int`)
 2. 덜 정밀한 타입에서 더 정밀한 타입으로 변환할 때 (예 : 정수 → 실수)
 
-```Java
+```java
 byte(1) -> short(2)/char(2) -> int(4) -> long(8) -> float(4) -> double(8)
 ```
 - `floa`t 이 `long`뒤에 있는 이유는 `float`이 표현할 수 있는 값이 모든 정수형보다 더 정밀하기 때문
@@ -105,7 +105,7 @@ byte(1) -> short(2)/char(2) -> int(4) -> long(8) -> float(4) -> double(8)
 - 수동으로 타입을 변환해 주는 것을 캐스팅(casting)이라고 한다
 - 캐스팅 연산자 `()`를 사용하며, 캐스팅 연산자의 괄호 안에 변환하고자 하는 타입을 적어주면 된다
 
-```Java
+```java
 // int 타입으로 선언된 변수 intValue를 더 작은 단위인 byte로 변환
 int intValue = 128;
 byte byteValue = (byte)intValue;
