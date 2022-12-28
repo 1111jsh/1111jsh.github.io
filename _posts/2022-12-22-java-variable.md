@@ -8,6 +8,8 @@ tags:
   - constant
   - type
 published: true
+toc: true
+toc_sticky: true
 ---
 ----
 
@@ -55,9 +57,6 @@ final double CALCUATOR_PI = 3.14;
 - 숫자를 나타내는 타입으로, `byte`, `short`, `int`, `long` 의 총 4개의 타입으로 분류
 - 각각 차지하는 메모리의 크기가 다르며, 그에 따라 나타낼 수 있는 숫자의 범위가 다르다
 
-![324234.png](https://raw.githubusercontent.com/1111jsh/image/upload/324234.png?token=A4WG6JV242NRDQD4WHFFDELDURKJ4)
-
-
 ### 정수형의 오버플로우와 언더플로우
 - 오버플로우: 자료형이 표현할 수 있는 범위 중 최대값 이상의 값을 표현한 경우 발생
 	- 최대값을 넘어가면 해당 데이터 타입의 최소값으로 값이 순환
@@ -69,9 +68,6 @@ final double CALCUATOR_PI = 3.14;
 - 컴퓨터에서 실수를 저장할 때는 부동소수점 표현 방식으로 저장하는데, 이러한 방식은 효율적이지만 약간의 오차를 갖는다
 - 오차는 실수를 더 정밀하게 표현할수록 줄어든다
 - 정밀도는 데이터 타입의 크기가 클수록 높아진다
-
-![image.png](https://raw.githubusercontent.com/1111jsh/image/upload/20221222215501.png?token=A4WG6JWW32HAZRSJN332SQ3DURJ6G)
-
 
 ### 실수형의 오버플로우와 언더플로우
 - 오버플로우    

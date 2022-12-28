@@ -8,6 +8,8 @@ tags:
   - SQ3R
   - 자기주도학습
 published: true
+toc: true
+toc_sticky: true
 ---
 ----
 

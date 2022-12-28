@@ -7,6 +7,8 @@ tags:
   - Linux
   - CLI
 published: true
+toc: true
+toc_sticky: true
 ---
 ----
 
