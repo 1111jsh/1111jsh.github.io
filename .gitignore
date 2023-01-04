@@ -27,6 +27,8 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+#_posts
 _posts/.obsidian/
 _posts/Excalidraw/
 _posts/template/
