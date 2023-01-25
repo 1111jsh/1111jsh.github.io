@@ -41,7 +41,7 @@ ex) 1071과 1029의 최대공약수
 
 ```java
 public static int gcd(int a, int b) {
-	if (b == 0) return a;
+	if (a % b == 0) return b;
 	return gcd(b, a % b);
 }
 // 재귀를 이용한 최대공약수 구하기
