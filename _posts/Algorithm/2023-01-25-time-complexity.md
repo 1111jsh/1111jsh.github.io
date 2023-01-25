@@ -2,7 +2,7 @@
 layout: single
 title: "시간 복잡도"
 categories:
-  - java
+  - Algorithm
 tags:
   - time complexity
 published: true
